@@ -1,7 +1,7 @@
 # Math for Machine Learning
 *Interactive Mathematical Foundations for ML/DL in Google Colab*
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml)
 
 A comprehensive, **Colab-native** guide to the mathematical foundations of machine learning. Every concept is explained through **interactive notebooks** that combine theory, code, and visualizations in a single, executable environment.
 
@@ -11,9 +11,9 @@ A comprehensive, **Colab-native** guide to the mathematical foundations of machi
 
 | Topic | Notebook | Colab Link |
 |-------|----------|------------|
-| 📐 **Vectors & Spaces** | `01_linear_algebra/01_vectors_and_spaces.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/01_linear_algebra/01_vectors_and_spaces.ipynb) |
-| 🧮 **Derivatives & Gradients** | `02_calculus/01_derivatives_and_gradients.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/02_calculus/01_derivatives_and_gradients.ipynb) |
-| 🎲 **Probability Foundations** | `03_probability_statistics/01_probability_foundations.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/03_probability_statistics/01_probability_foundations.ipynb) |
+| 📐 **Vectors & Spaces** | `01_linear_algebra/01_vectors_and_spaces.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/01_linear_algebra/01_vectors_and_spaces.ipynb) |
+| 🧮 **Derivatives & Gradients** | `02_calculus/01_derivatives_and_gradients.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/02_calculus/01_derivatives_and_gradients.ipynb) |
+| 🎲 **Probability Foundations** | `03_probability_statistics/01_probability_foundations.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/03_probability_statistics/01_probability_foundations.ipynb) |
 
 ## Why This Repository?
 
@@ -38,53 +38,53 @@ Each notebook contains:
 #### 📐 Linear Algebra
 | Notebook | Topics Covered | Colab |
 |----------|----------------|-------|
-| **Vectors & Spaces** | Vector operations, norms, inner products, basis | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/01_linear_algebra/01_vectors_and_spaces.ipynb) |
-| **Matrix Operations** | Matrix multiplication, inverses, determinants | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/01_linear_algebra/02_matrix_operations.ipynb) |
-| **Eigendecomposition** | Eigenvalues, eigenvectors, diagonalization | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/01_linear_algebra/03_eigendecomposition.ipynb) |
-| **SVD & PCA** | Singular value decomposition, principal components | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/01_linear_algebra/04_svd_and_pca.ipynb) |
+| **Vectors & Spaces** | Vector operations, norms, inner products, basis | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/01_linear_algebra/01_vectors_and_spaces.ipynb) |
+| **Matrix Operations** | Matrix multiplication, inverses, determinants | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/01_linear_algebra/02_matrix_operations.ipynb) |
+| **Eigendecomposition** | Eigenvalues, eigenvectors, diagonalization | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/01_linear_algebra/03_eigendecomposition.ipynb) |
+| **SVD & PCA** | Singular value decomposition, principal components | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/01_linear_algebra/04_svd_and_pca.ipynb) |
 
 #### 🧮 Calculus
 | Notebook | Topics Covered | Colab |
 |----------|----------------|-------|
-| **Derivatives & Gradients** | Partial derivatives, gradients, Jacobians | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/02_calculus/01_derivatives_and_gradients.ipynb) |
-| **Chain Rule & Backprop** | Chain rule, computational graphs, backpropagation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/02_calculus/02_chain_rule_backprop.ipynb) |
-| **Optimization Methods** | Gradient descent, Newton's method, constraints | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/02_calculus/03_optimization_methods.ipynb) |
-| **Multivariable Calculus** | Hessians, Taylor series, Lagrange multipliers | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/02_calculus/04_multivariable_calculus.ipynb) |
+| **Derivatives & Gradients** | Partial derivatives, gradients, Jacobians | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/02_calculus/01_derivatives_and_gradients.ipynb) |
+| **Chain Rule & Backprop** | Chain rule, computational graphs, backpropagation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/02_calculus/02_chain_rule_backprop.ipynb) |
+| **Optimization Methods** | Gradient descent, Newton's method, constraints | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/02_calculus/03_optimization_methods.ipynb) |
+| **Multivariable Calculus** | Hessians, Taylor series, Lagrange multipliers | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/02_calculus/04_multivariable_calculus.ipynb) |
 
 #### 🎲 Probability & Statistics
 | Notebook | Topics Covered | Colab |
 |----------|----------------|-------|
-| **Probability Foundations** | Sample spaces, conditional probability, Bayes' theorem | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/03_probability_statistics/01_probability_foundations.ipynb) |
-| **Distributions & Sampling** | Common distributions, CLT, Monte Carlo methods | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/03_probability_statistics/02_distributions_sampling.ipynb) |
-| **Bayesian Inference** | Priors, posteriors, MCMC, variational inference | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/03_probability_statistics/03_bayesian_inference.ipynb) |
-| **Information Theory** | Entropy, KL divergence, mutual information | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/03_probability_statistics/04_information_theory.ipynb) |
+| **Probability Foundations** | Sample spaces, conditional probability, Bayes' theorem | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/03_probability_statistics/01_probability_foundations.ipynb) |
+| **Distributions & Sampling** | Common distributions, CLT, Monte Carlo methods | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/03_probability_statistics/02_distributions_sampling.ipynb) |
+| **Bayesian Inference** | Priors, posteriors, MCMC, variational inference | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/03_probability_statistics/03_bayesian_inference.ipynb) |
+| **Information Theory** | Entropy, KL divergence, mutual information | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/03_probability_statistics/04_information_theory.ipynb) |
 
 ### 🤖 ML Applications
 | Notebook | Topics Covered | Colab |
 |----------|----------------|-------|
-| **Linear Regression Math** | Normal equations, regularization, probabilistic view | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/04_ml_applications/01_linear_regression_math.ipynb) |
-| **Neural Network Fundamentals** | Feedforward, backpropagation, universal approximation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/04_ml_applications/02_neural_network_fundamentals.ipynb) |
-| **Deep Learning Mathematics** | CNNs, RNNs, attention mechanisms | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/04_ml_applications/03_deep_learning_mathematics.ipynb) |
-| **Optimization Algorithms** | Adam, RMSprop, learning rate schedules | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/04_ml_applications/04_optimization_algorithms.ipynb) |
+| **Linear Regression Math** | Normal equations, regularization, probabilistic view | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/04_ml_applications/01_linear_regression_math.ipynb) |
+| **Neural Network Fundamentals** | Feedforward, backpropagation, universal approximation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/04_ml_applications/02_neural_network_fundamentals.ipynb) |
+| **Deep Learning Mathematics** | CNNs, RNNs, attention mechanisms | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/04_ml_applications/03_deep_learning_mathematics.ipynb) |
+| **Optimization Algorithms** | Adam, RMSprop, learning rate schedules | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/04_ml_applications/04_optimization_algorithms.ipynb) |
 
 ### Interactive Learning
 
 #### Playground Notebooks
 Experiment and build intuition:
-- [**Linear Algebra Playground**](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/interactive_demos/linear_algebra_playground.ipynb) - Interactive matrix transformations
-- [**Calculus Explorer**](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/interactive_demos/calculus_explorer.ipynb) - Gradient descent visualization
-- [**Probability Simulator**](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/interactive_demos/probability_simulator.ipynb) - Distribution exploration
+- [**Linear Algebra Playground**](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/interactive_demos/linear_algebra_playground.ipynb) - Interactive matrix transformations
+- [**Calculus Explorer**](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/interactive_demos/calculus_explorer.ipynb) - Gradient descent visualization
+- [**Probability Simulator**](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/interactive_demos/probability_simulator.ipynb) - Distribution exploration
 
 #### Complete Projects
 End-to-end implementations:
-- [**PCA from Scratch**](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/complete_projects/pca_from_scratch.ipynb)
-- [**Neural Network Implementation**](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/complete_projects/neural_network_implementation.ipynb)
-- [**Optimization Comparison**](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/complete_projects/optimization_comparison.ipynb)
+- [**PCA from Scratch**](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/complete_projects/pca_from_scratch.ipynb)
+- [**Neural Network Implementation**](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/complete_projects/neural_network_implementation.ipynb)
+- [**Optimization Comparison**](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/complete_projects/optimization_comparison.ipynb)
 
 ## Learning Paths
 
 ### Beginner (Never done ML before)
-1. **Start Here**: [Setup Environment](https://colab.research.google.com/github/yourusername/math-for-ml/blob/main/colab_quick_start/setup_environment.ipynb)
+1. **Start Here**: [Setup Environment](https://colab.research.google.com/github/NayeonKimdev/math-for-ml/blob/main/colab_quick_start/setup_environment.ipynb)
 2. **Linear Algebra**: Vectors → Matrices → Basic operations
 3. **Simple Calculus**: Derivatives and gradients
 4. **First ML Model**: Linear regression mathematics
